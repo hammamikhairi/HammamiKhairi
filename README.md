@@ -7,12 +7,12 @@
 
 <br>
 
-##### 👨‍💻 Skills
+#### 👨‍💻 Skills
 * 💻 HTML, CSS, JS
 * ⌨️ C/C++
 * 🐍 Python
 
-##### 🌱 Interests:
+#### 🌱 Interests:
 * Machine Learning
 * Web development
 * Problem Solving
