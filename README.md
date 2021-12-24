@@ -1,5 +1,10 @@
-### Hi there 👋
-#### My name is Khairi and I'm a data science student from Tunisia. Here's some info about me
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='2
+                                                                                                                                  
+
+## Hi there 👋
+### My name is Khairi and I'm a data science student from Tunisia. Here's some info about me!
+
+
 <!--
 **HammamiKhairi/HammamiKhairi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
