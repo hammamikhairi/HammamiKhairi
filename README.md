@@ -16,9 +16,8 @@
 * Web development
 * Problem Solving
 * Mathematics
-<br>
 
-💬 Reach me by email or LinkedIn!  hammamikhairi@gmail.com | www.linkedin.com/in/khairi-hammami/
+#### 💬 Reach me by email or LinkedIn!  hammamikhairi@gmail.com | www.linkedin.com/in/khairi-hammami/
 
 
 <!--
