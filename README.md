@@ -2,7 +2,7 @@
                                                                                                                                   
 
 # Hi there 👋
-### My name is Khairi and I'm a data science student from Tunisia.
+### My name is Khairi and I'm a Data Science student from Tunisia.
 ### Here's some info about me!
 
 <br>
@@ -17,6 +17,7 @@
 * Machine Learning
 * Web development
 * Problem Solving
+* Mathematics
 <br>
 
 💬 Reach me by email or LinkedIn!  hammamikhairi@gmail.com | www.linkedin.com/in/khairi-hammami/
