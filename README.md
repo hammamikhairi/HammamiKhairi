@@ -17,6 +17,9 @@
 * Problem Solving
 * Mathematics
 
+#### 🔭 Current project: 
+- Space Tourism Website (Figma, HTML, CSS, JavaScript).
+
 #### 💬 Reach me by email or LinkedIn!  hammamikhairi@gmail.com | www.linkedin.com/in/khairi-hammami/
 
 
