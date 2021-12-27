@@ -6,10 +6,11 @@
 ### Here's some info about me!
 
 
-#### 👨‍💻 Skills
+#### 👨‍💻 Skills and Technologies
 * 💻 HTML, CSS, JS
-* ⌨️ C/C++
+* 🖌 Figma
 * 🐍 Python
+* ⌨️ C/C++
 
 #### 🌱 Interests:
 * Machine Learning
