@@ -11,6 +11,7 @@
 * 🖌 Figma
 * 🐍 Python
 * ⌨️ C/C++
+* ⚡ APIs
 
 #### 🌱 Interests:
 * Machine Learning
@@ -19,7 +20,7 @@
 * Mathematics
 
 #### 🔭 Current project: 
-- Blogging Website (HTML, CSS, JavaScript, FireBase).
+- Blogging Website (HTML, CSS, JavaScript, FireBase, NodeJs, Unsplash API).
 
 #### 💬 Reach me by email or LinkedIn!  hammamikhairi@gmail.com | www.linkedin.com/in/khairi-hammami/
 
