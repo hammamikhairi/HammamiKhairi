@@ -8,8 +8,8 @@
 
 #### 👨‍💻 Technologies
 * 💻 React, SASS
-* 🖌 CSS, SASS
 * 🐍 Python
+* C/C++
 
 #### 🌱 Interests:
 * Machine Learning
