@@ -6,12 +6,10 @@
 ### Here's some info about me!
 
 
-#### 👨‍💻 Skills and Technologies
-* 💻 HTML, CSS, JS
-* 🖌 Figma
+#### 👨‍💻 Technologies
+* 💻 React, SASS
+* 🖌 CSS, SASS
 * 🐍 Python
-* ⌨️ C/C++
-* ⚡ APIs
 
 #### 🌱 Interests:
 * Machine Learning
@@ -20,7 +18,7 @@
 * Mathematics
 
 #### 🔭 Current project: 
-- Blogging Website (HTML, CSS, JavaScript, FireBase, NodeJs, Unsplash API).
+- Learni (React, SASS, FireBase).
 
 #### 💬 Reach me by email or LinkedIn!  hammamikhairi@gmail.com | www.linkedin.com/in/khairi-hammami/
 
