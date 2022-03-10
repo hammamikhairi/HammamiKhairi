@@ -10,6 +10,7 @@
 * 💻 React, SASS
 * 🐍 Python
 * C/C++
+* SQL
 
 #### 🌱 Interests:
 * Machine Learning
