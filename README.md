@@ -21,6 +21,9 @@
 #### 🔭 Current project: 
 - Learni (React, SASS, FireBase).
 
+#### 🐾 Pet project: 
+- Latom (React, SASS, FireBase).
+
 #### 💬 Reach me by email or LinkedIn!  hammamikhairi@gmail.com | www.linkedin.com/in/khairi-hammami/
 
 
