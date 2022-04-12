@@ -22,7 +22,7 @@
 - Learni (React, SASS, FireBase).
 
 #### 🐾 Pet project: 
-- Latom (React, SASS, FireBase).
+- Latom (Python).
 
 #### 💬 Reach me by email or LinkedIn!  hammamikhairi@gmail.com | www.linkedin.com/in/khairi-hammami/
 
