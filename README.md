@@ -19,7 +19,8 @@
 * Mathematics
 
 #### 🔭 Current project: 
-- Learni (React, SASS, FireBase).
+- My Blog (React, SASS, Flask).
+- My club's Discord bot (Python).
 
 #### 🐾 Pet project: 
 - Latom (Python).
