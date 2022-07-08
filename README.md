@@ -25,7 +25,7 @@
 #### 🐾 Pet project: 
 - Latom (Python).
 
-#### 💬 Reach me by <pre>Email hammamikhairi@gmail.com</pre> or [LinkedIn](www.linkedin.com/in/khairi-hammami/)!  
+#### 💬 Reach me by Email `hammamikhairi@gmail.com` or [LinkedIn](www.linkedin.com/in/khairi-hammami/)!  
 
 
 <!--
