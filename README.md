@@ -13,9 +13,9 @@
 * SQL
 
 #### 🌱 Interests:
-* Machine Learning
-* Web development
+* Automation
 * Problem Solving
+* Web development
 * Mathematics
 
 #### 🔭 Current project: 
