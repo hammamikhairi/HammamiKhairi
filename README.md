@@ -27,14 +27,6 @@
 
 #### 💬 Reach me by Email `hammamikhairi@gmail.com` or [LinkedIn](www.linkedin.com/in/khairi-hammami/)!  
 
----
-
-#### Stats
-
-![enyelSequeria Stats](https://github-readme-stats.vercel.app/api?username=hammamikhairi&show_icons=true&theme=dracula)
-
----
-
 <!--
 Hiiiiiiiiiiiiiiiiiiiiiiiii :)
 -->
