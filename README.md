@@ -2,30 +2,32 @@
                                                                                                                                   
 
 ### Hi there 👋
-### My name is Khairi and I'm a Data Science student from Tunisia. 
-### Here's some info about me!
+#### My name is Khairi, i'm 20 yo and I'm a Data Science student from Tunisia. 
+#### Here's some info about me!
 
 
 #### 👨‍💻 Technologies
 * 💻 React, SASS
 * 🐍 Python
+* 🌶️ Flask
 * C/C++
 * SQL
 
 #### 🌱 Interests:
 * Automation
 * Problem Solving
+* Machine learning
 * Web development
 * Mathematics
 
-#### 🔭 Current project: 
-- My Blog (React, SASS, Flask).
-- My club's Discord bot (Python).
+#### 🔭 Current projects: 
+- [Nata](https://github.com/ISAMM-Microsoft-Club/Nata)
+- Custom Forms website (React, SASS and Flask)
 
 #### 🐾 Pet project: 
-- Latom (Python).
+- [Latom](https://github.com/hammamikhairi/Latom).
 
-#### 💬 You can contact me at `khairihammami@outlook.com` or [LinkedIn](https://www.linkedin.com/in/khairi-hammami/)!  
+#### 💬 You can contact me at [LinkedIn](https://www.linkedin.com/in/khairi-hammami/) or `khairihammami@outlook.com`
 
 <!--
 Hiiiiiiiiiiiiiiiiiiiiiiiii :)
