@@ -2,7 +2,7 @@
                                                                                                                                   
 
 ### Hi there 👋
-#### My name is Khairi, i'm 20 yo and I'm a Data Science student from Tunisia. 
+#### My name is Khairi and i'm a 20 yo Data Science student from Tunisia. 
 #### Here's some info about me!
 
 
