@@ -33,7 +33,7 @@
 <div align="center">
 <br>
 
-  ![Weekly Language Stats](https://raw.githubusercontent.com/hammamikhairi/HammamiKhairi/master/images/wakatime_weekly_language_stats.svg "Weekly Language Stats")
+  ![Weekly Language Stats](https://raw.githubusercontent.com/hammamikhairi/HammamiKhairi/master/images/wakatime_weekly_language_stats.svg&v=2 "Weekly Language Stats")
 <br>
 <div>
 <p align="right">
