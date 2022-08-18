@@ -29,6 +29,15 @@
 
 #### 💬 You can contact me at [LinkedIn](https://www.linkedin.com/in/khairi-hammami/) or `khairihammami@outlook.com`
 
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=hammamikhairi&label=Profile%20views&color=0e75b6&style=flat" alt="hammamikhairi" />
+</p>
+
 <!--
 Hiiiiiiiiiiiiiiiiiiiiiiiii :)
+
+
+ <img src="https://activity-graph.herokuapp.com/graph?username=hammamikhairi&theme=gotham&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+
 -->
