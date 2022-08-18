@@ -30,6 +30,12 @@
 #### 💬 You can contact me at [LinkedIn](https://www.linkedin.com/in/khairi-hammami/) or `khairihammami@outlook.com`
 
 
+<div align="center">
+<br>
+
+  ![Weekly Language Stats](https://raw.githubusercontent.com/hammamikhairi/HammamiKhairi/master/images/wakatime_weekly_language_stats.svg "Weekly Language Stats")
+<br>
+<div>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=hammamikhairi&label=Profile%20views&color=0e75b6&style=flat" alt="hammamikhairi" />
 </p>
