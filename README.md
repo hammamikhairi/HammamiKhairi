@@ -13,7 +13,7 @@
 * C/C++
 * SQL
 
-#### 🌱 Interests:
+#### ✨ Interests:
 * Automation
 * Problem Solving
 * Machine learning
@@ -23,6 +23,9 @@
 #### 🔭 Current projects: 
 - [Nata](https://github.com/ISAMM-Microsoft-Club/Nata)
 - Custom Forms website (React, SASS and Flask)
+
+#### 🌱 Currently learning :
+- .NET Core
 
 #### 🐾 Pet project: 
 - [Latom](https://github.com/hammamikhairi/Latom).
