@@ -9,7 +9,7 @@
 #### 👨‍💻 Technologies
 * 💻 React, SASS
 * 🐍 Python
-* 🌶️ Flask
+* Java
 * C/C++
 * SQL
 
@@ -22,7 +22,6 @@
 
 #### 🔭 Current projects: 
 - [Nata](https://github.com/ISAMM-Microsoft-Club/Nata)
-- Custom Forms website (React, SASS and Flask)
 
 #### 🌱 Currently learning :
 - .NET Core
