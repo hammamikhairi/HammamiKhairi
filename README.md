@@ -9,6 +9,7 @@
 #### 👨‍💻 Technologies
 * 💻 React, SASS
 * 🐍 Python
+* Golang
 * Java
 * C/C++
 * SQL
@@ -21,10 +22,10 @@
 * Mathematics
 
 #### 🔭 Current projects: 
-- [Nata](https://github.com/ISAMM-Microsoft-Club/Nata)
+- An implementation of the [Radix Tree](https://github.com/hammamikhairi/Radix-Tree) in Golang
 
 #### 🌱 Currently learning :
-- .NET Core
+- [Golang](https://go.dev/)
 
 #### 🐾 Pet project: 
 - [Latom](https://github.com/hammamikhairi/Latom).
