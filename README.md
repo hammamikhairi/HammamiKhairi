@@ -7,38 +7,45 @@
 
 
 #### 👨‍💻 Technologies
-* 💻 React, SASS
-* 🐍 Python
+* React, SASS
+* Python
 * Golang
 * Java
 * C/C++
 * SQL
 
-#### ✨ Interests:
+#### ✨ Interests
 * Automation
 * Problem Solving
 * Machine learning
 * Web development
 * Mathematics
 
-#### 🔭 Current projects: 
-- An implementation of the [Radix Tree](https://github.com/hammamikhairi/Radix-Tree) in Golang
-
-#### 🌱 Currently learning :
+#### 🌱 Currently learning
 - [Golang](https://go.dev/)
 
+#### 🔭 Current projects 
+- [A manga desktop app](https://github.com/hammamikhairi/Manga-Desktop-App) using wails 🐉 (React for the frontend and Golang for the backend)
+
+#### 🐾 LFSA 88
+LFSA 88 is a challenge where i try to work on 88 projects in a period of time. [Check it out!](https://github.com/hammamikhairi/LFSA-88)
+
+<!--
 #### 🐾 Pet project: 
 - [Latom](https://github.com/hammamikhairi/Latom).
+-->
+<br>
 
 #### 💬 You can contact me at [LinkedIn](https://www.linkedin.com/in/khairi-hammami/) or `khairihammami@outlook.com`
 
-
+<!--
 <div align="center">
 <br>
 
   ![Weekly Language Stats](https://raw.githubusercontent.com/hammamikhairi/HammamiKhairi/master/images/wakatime_weekly_language_stats.svg?v=2 "Weekly Language Stats")
 <br>
-<div>
+</div>
+-->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=hammamikhairi&label=Profile%20views&color=0e75b6&style=flat" alt="hammamikhairi" />
 </p>
@@ -47,6 +54,6 @@
 Hiiiiiiiiiiiiiiiiiiiiiiiii :)
 
 
- <img src="https://activity-graph.herokuapp.com/graph?username=hammamikhairi&theme=gotham&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+ <img src="https://activity-graph.herokuapp.com/graph?username=hammamikhairi&theme=gotham&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/> 
 
 -->
