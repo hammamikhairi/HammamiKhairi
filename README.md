@@ -7,28 +7,29 @@
 
 
 #### 👨‍💻 Technologies
-* React, SASS
-* Python
+* Next.Js, SASS
 * Golang
+* Python
 * Java
 * C/C++
 * SQL
 
 #### ✨ Interests
-* Automation
+* Natural Language Processing
 * Problem Solving
-* Machine learning
 * Web development
 * Mathematics
+* Automation
 
 #### 🌱 Currently learning
-- [Golang](https://go.dev/)
+- [Next.Js](https://nextjs.org/)
+- [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 
 #### 🔭 Current projects 
 - [A manga desktop app](https://github.com/hammamikhairi/Manga-Desktop-App) using wails 🐉 (React for the frontend and Golang for the backend)
 
 #### 🐾 LFSA 88
-LFSA 88 is a challenge where i try to work on 88 projects in a period of time. [Check it out!](https://github.com/hammamikhairi/LFSA-88)
+LFSA 88 is a challenge where i try to work on 88 projects. [Check it out!](https://github.com/hammamikhairi/LFSA-88)
 
 <!--
 #### 🐾 Pet project: 
