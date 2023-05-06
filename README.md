@@ -54,8 +54,5 @@ LFSA 88 is a challenge where i try to work on 88 projects. [Check it out!](https
 
 <!--
 Hiiiiiiiiiiiiiiiiiiiiiiiii :)
-
-
- <img src="https://activity-graph.herokuapp.com/graph?username=hammamikhairi&theme=gotham&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/> 
-
+flag{1nFzKbV6xHdJy5L}
 -->
