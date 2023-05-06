@@ -36,9 +36,11 @@ LFSA 88 is a challenge where i try to work on 88 projects. [Check it out!](https
 -->
 <br>
 
-## Hello player! you're close...
-
 #### 💬 You can contact me at [LinkedIn](https://www.linkedin.com/in/khairihammami/) or `khairihammami@outlook.com`
+
+<br>
+
+###  Hello player! you're close...
 
 <!--
 <div align="center">
