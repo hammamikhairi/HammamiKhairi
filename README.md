@@ -5,7 +5,6 @@
 #### My name is Khairi and i'm a 20 yo Data Science student from Tunisia. 
 #### Here's some info about me!
 
-
 #### 👨‍💻 Technologies
 * Next.Js, SASS
 * Golang
@@ -36,6 +35,8 @@ LFSA 88 is a challenge where i try to work on 88 projects. [Check it out!](https
 - [Latom](https://github.com/hammamikhairi/Latom).
 -->
 <br>
+
+## Hello player! you're close...
 
 #### 💬 You can contact me at [LinkedIn](https://www.linkedin.com/in/khairihammami/) or `khairihammami@outlook.com`
 
