@@ -56,5 +56,5 @@ LFSA 88 is a challenge where i try to work on 88 projects. [Check it out!](https
 
 <!--
 Hiiiiiiiiiiiiiiiiiiiiiiiii :)
-flag{1nFzKbV6xHdJy5L}
+flag{b2WzK6cP8jRfH1T}
 -->
