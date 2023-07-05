@@ -25,6 +25,7 @@
 - [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 
 #### 🔭 Current projects 
+- [A tool that obfuscates source code](https://github.com/hammamikhairi/langfuck) using Golang
 - [A manga desktop app](https://github.com/hammamikhairi/Manga-Desktop-App) using wails 🐉 (React for the frontend and Golang for the backend)
 
 #### 🐾 LFSA 88
@@ -39,8 +40,6 @@ LFSA 88 is a challenge where i try to work on 88 projects. [Check it out!](https
 #### 💬 You can contact me at [LinkedIn](https://www.linkedin.com/in/khairihammami/) or `khairihammami@outlook.com`
 
 <br>
-
-###  Hello player! you're close...
 
 <!--
 <div align="center">
