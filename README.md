@@ -21,7 +21,8 @@
 * Automation
 
 #### 🌱 Currently learning
-- [Next.Js](https://nextjs.org/)
+- Cloud-Based BI Solutions
+- Advanced ETL Techniques
 - [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 
 #### 🔭 Currently working on
