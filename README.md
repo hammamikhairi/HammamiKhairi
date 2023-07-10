@@ -24,7 +24,8 @@
 - [Next.Js](https://nextjs.org/)
 - [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 
-#### 🔭 Current projects 
+#### 🔭 Currently working on
+- BI Solution Development of an On-Demand Online Service Request Platform
 - [A tool that obfuscates source code](https://github.com/hammamikhairi/langfuck) using Golang
 - [A manga desktop app](https://github.com/hammamikhairi/Manga-Desktop-App) using wails 🐉 (React for the frontend and Golang for the backend)
 
