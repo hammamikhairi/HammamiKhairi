@@ -2,7 +2,7 @@
                                                                                                                                   
 
 ### Hi there 👋
-#### My name is Khairi and i'm a 20 yo Data Science student from Tunisia. 
+#### My name is Khairi and i'm a 21 yo Data Science student from Tunisia. 
 #### Here's some info about me!
 
 #### 👨‍💻 Technologies
@@ -11,22 +11,21 @@
 * Python
 * Java
 * C/C++
-* SQL
+* SQL / NoSQL
 
 #### ✨ Interests
 * Natural Language Processing
+* System Design
 * Problem Solving
 * Web development
 * Mathematics
 * Automation
 
 #### 🌱 Currently learning
-- Cloud-Based BI Solutions
-- Advanced ETL Techniques
-- [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
+- Design Patterns
+- NLP
 
 #### 🔭 Currently working on
-- BI Solution Development of an On-Demand Online Service Request Platform
 - [A tool that obfuscates source code](https://github.com/hammamikhairi/langfuck) using Golang
 - [A manga desktop app](https://github.com/hammamikhairi/Manga-Desktop-App) using wails 🐉 (React for the frontend and Golang for the backend)
 
