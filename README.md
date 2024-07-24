@@ -3,31 +3,25 @@
 
 ### Hi there 👋
 #### My name is Khairi and i'm a 21 yo Data Science student from Tunisia. 
-#### Here's some info about me!
 
 #### 👨‍💻 Technologies
 * Next.Js, SASS
 * Golang
 * Python
-* Java
-* C/C++
-* SQL / NoSQL
+
 
 #### ✨ Interests
 * Natural Language Processing
 * System Design
 * Problem Solving
-* Web development
 * Mathematics
 * Automation
 
 #### 🌱 Currently learning
 - Design Patterns
-- NLP
 
 #### 🔭 Currently working on
-- [A tool that obfuscates source code](https://github.com/hammamikhairi/langfuck) using Golang
-- [A manga desktop app](https://github.com/hammamikhairi/Manga-Desktop-App) using wails 🐉 (React for the frontend and Golang for the backend)
+- [My Startup](https://github.com/Flayes-Corp)
 
 #### 🐾 LFSA 88
 LFSA 88 is a challenge where i try to work on 88 projects. [Check it out!](https://github.com/hammamikhairi/LFSA-88)
@@ -36,7 +30,7 @@ LFSA 88 is a challenge where i try to work on 88 projects. [Check it out!](https
 #### 🐾 Pet project: 
 - [Latom](https://github.com/hammamikhairi/Latom).
 -->
-<br>
+
 
 #### 💬 You can contact me at [LinkedIn](https://www.linkedin.com/in/khairihammami/) or `khairihammami@outlook.com`
 
@@ -52,6 +46,9 @@ LFSA 88 is a challenge where i try to work on 88 projects. [Check it out!](https
 -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=hammamikhairi&label=Profile%20views&color=0e75b6&style=flat" alt="hammamikhairi" />
+  </p>
+  <p align="right">
+  <img src="https://wakatime.com/badge/user/11df6f9c-8a4d-47dd-b620-c76d8d8d206a.svg" alt="Total time coded since Aug 18 2022" />
 </p>
 
 <!--
