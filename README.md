@@ -2,7 +2,7 @@
                                                                                                                                   
 
 ### Hi there 👋
-#### My name is Khairi and i'm a 21 yo Data Science student from Tunisia. 
+#### I'm just a nerd who likes to code
 
 #### 👨‍💻 Technologies
 * Next.Js, SASS
