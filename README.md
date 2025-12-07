@@ -1,32 +1,19 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'>
 
-### Hi there 👋
-#### I'm Khairi, a passionate software building innovative solutions.
+#### I'm Khairi, i build [stuff](https://khairi.dev/#projects).
 
-#### 👨‍💻 Technologies
-* Next.js
-* Golang, Python
-* Azure, Serveless
+#### Tech:
+- Nextjs, Typescript, Golang, Python
+- Azure, OpenAi, Vercel, Supabase
 
-#### ✨ Interests
-* System Architecture & Backend Development
-* Natural Language Processing
-* Database Management
-* Problem Solving
-* Mathematics & Automation
-
-#### 🌱 Currently learning
-- Advanced Design Patterns
-- Multi-Tenant Systems
-
-#### 🔭 Currently working on
-- [Flayes](https://flayes.app) – A platform transforming daily choices into rewards.
+#### Currently working on
+- [Glassie](https://apps.apple.com/us/app/glassie/id6753757275) – A skincare app that leverages AI to provide personalized skincare routines and product recommendations based on user skin type and concerns.
+- [Artisan Tunisien](https://khairi.dev/project/artisan-tunisien) – A modern directory for Tunisian artisans.
 - [Warrini](https://warrini.me) – Simplifying the creation and showcasing of professional portfolios.
 
-#### 🐾 LFSA 88
-LFSA 88 is a challenge where I work on 88 projects. [Check it out!](https://github.com/hammamikhairi/LFSA-88)
 
-#### 💬 You can contact me at [LinkedIn](https://www.linkedin.com/in/khairihammami/) or `khairihammami@outlook.com`
+
+#### 💬 You can contact me at [`LinkedIn`](https://www.linkedin.com/in/khairihammami/) or [`khairihammami@outlook.com`](mailto:khairihammami@outlook.com)
 
 <br>
 
