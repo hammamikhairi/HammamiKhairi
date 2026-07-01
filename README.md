@@ -3,17 +3,18 @@
 #### I'm Khairi, i build [stuff](https://khairi.dev/#projects).
 
 #### Tech:
-- Nextjs, Typescript, Golang, Python
-- Azure, OpenAi, Vercel, Supabase
+- Nextjs, React Native, Typescript, Golang, Python
+- FastAPI, Docker, Azure, Vercel, Supabase
+- Postgres, Redis, ScyllaDB
+- AI: MCP, LLM agents, agent memory, pgvectorz
+- ML: PyTorch, HuggingFace, YOLOv8, llama.cpp, Ollama
 
 #### Currently working on
 - [Glassie](https://apps.apple.com/us/app/glassie/id6753757275) – A skincare app that leverages AI to provide personalized skincare routines and product recommendations based on user skin type and concerns.
-- [Artisan Tunisien](https://khairi.dev/project/artisan-tunisien) – A modern directory for Tunisian artisans.
-- [Warrini](https://warrini.me) – Simplifying the creation and showcasing of professional portfolios.
 
 
 
-#### 💬 You can contact me at [`LinkedIn`](https://www.linkedin.com/in/khairihammami/) or [`khairihammami@outlook.com`](mailto:khairihammami@outlook.com)
+#### 💬 You can contact me at [`LinkedIn`](https://www.linkedin.com/in/khairihammami/) or [`via email`](mailto:khairihammami@outlook.com)
 
 <br>
 
