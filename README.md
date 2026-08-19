@@ -5,7 +5,7 @@
 #### Tech:
 - Nextjs, React Native, Typescript, Golang, Python
 - FastAPI, Docker, Azure, Vercel, Supabase
-- Postgres, Redis, ScyllaDB
+- Postgres, Redis, ScyllaDB, Neo4j
 - AI: MCP, LLM agents, agent memory, pgvectorz
 - ML: PyTorch, HuggingFace, YOLOv8, llama.cpp, Ollama
 
